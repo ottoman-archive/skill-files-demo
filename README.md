@@ -18,6 +18,12 @@ Three skill files from the **Opening the Ottoman Archive** Ottoman Turkish HTR/O
 
 Additional skill files are under development in collaboration with Ottoman Turkish scholars. Once they have been tested and validated they will be made publicly available with full documentation. These skill files will cover a wide range of script, document type, and genre from the C16th to the early C20th.
 
+**You can find a summary description of all our skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).**
+
+<p align="center">
+  <img src="https://github.com/ottoman-archive/.github/raw/main/images/Public_Wiki_06022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
+</p>
+
 For research purposes, skill files under development can be requested by contacting Colin Greenstreet at colin.greenstreet@gmail.com.
 
 ## Project
