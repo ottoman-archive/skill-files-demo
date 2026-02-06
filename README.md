@@ -1,2 +1,25 @@
 # skill-files-demo
-Public repository with three demonstration skill files
+
+Three skill files from the **Opening the Ottoman Archive** Ottoman Turkish HTR/OCR project, demonstrating a two-stage pipeline for transcribing Ottoman Turkish documents using large language models (LLMs).
+
+## Core Pipeline
+
+### The core pipeline contains two stages (1) visual capture (2) semantic processing
+
+1. **V3-S-Minimal** — Visual capture protocol for use with Google Gemini 3 Pro Preview. Pure script-to-Unicode conversion with zero semantic interpretation. Designed for Perso-Arabic script documents.
+
+2. **V3-T-Government-Gazette** — Semantic processing protocol for use with Claude Opus 4.5 or 4.6. Takes the visual capture output and performs transcription, transliteration, translation, and named entity recognition.
+
+## Optional Preparatory Step
+
+3. **S0-V1-LayoutAnalysis** — Document layout diagnosis. Detects and classifies distinct regions of a document image. Results inform which variant of the V3-S and V3-T files to use or how to adapt them.
+
+## Other Skill Files
+
+Additional skill files are under development in collaboration with Ottoman Turkish scholars. Once they have been tested and validated they will be made publicly available with full documentation. These skill files will cover a wide range of script, document type, and genre from the C16th to the early C20th.
+
+For research purposes, skill files under development can be requested by contacting Colin Greenstreet at colin.greenstreet@gmail.com.
+
+## Project
+
+Part of the [Opening the Ottoman Archive](https://github.com/ottoman-archive) initiative. For methodology and documentation, see the [project wiki](https://github.com/ottoman-archive/.github/wiki).
