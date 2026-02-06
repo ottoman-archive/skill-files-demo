@@ -12,7 +12,7 @@ Three skill files from the **Opening the Ottoman Archive** Ottoman Turkish HTR/O
 
 ## Optional Preparatory Step
 
-3. **S0-V1.2-LayoutAnalysis** — Document layout diagnosis. Detects and classifies distinct regions of a document image. Results inform which variant of the V3-S and V3-T files to use or how to adapt them.
+3. **[S0-V1-Layout-Analysis](S0-V1.2-Layout-Analysis.md)** — Document layout diagnosis. Detects and classifies distinct regions of a document image. Results inform which variant of the V3-S and V3-T files to use or how to adapt them.
 
 ## Other Skill Files
 
